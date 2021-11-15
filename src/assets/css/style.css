@@ -1,0 +1,31 @@
+.makeStyles-item-15.active .MuiButtonBase-root .makeStyles-whiteFont-21 {
+  color: rgb(137, 101, 169);
+}
+.fc .fc-toolbar {
+  display: none;
+}
+.bg-lightpurple {
+  background-color: #e7d7f5;
+}
+tr:nth-child(even) {
+  background-color: white;
+}
+.page-item {
+  padding: 0 10px;
+}
+.page-item.active .page-link {
+  background-color: rgb(137, 101, 169);
+  border-color: rgb(137, 101, 169);
+}
+.page-link {
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  color: lightgray !important;
+  background-color: transparent;
+}
+.page-link .fas {
+  color: black;
+}
